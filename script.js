@@ -1,12 +1,12 @@
-/*let  Navlinks = document.getElementById("NavLinks");
+let  Navlinks = document.getElementById("NavLinks");
       
         
         
         function showmenu(){
-            Navlinks.learn.right = "200px";
+            Navlinks.learn.display= block;
             }
         
         function hidemenu(){
-            Navlinks.learn.right = "0";
-        }*/
+            Navlinks.learn.display = none;
+        }
         
