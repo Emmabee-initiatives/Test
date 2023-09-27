@@ -8,5 +8,5 @@
         
         function hidemenu(){
             Navlinks.learn.right = "0";
-        }
+        }*/
         
