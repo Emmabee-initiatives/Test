@@ -86,7 +86,7 @@ h1{
 nav .fa{
     display:none;
 }
-@media(max-width:700px){
+@media(max-width:cover;){
     h1{
     font-size:40px;
 }
