@@ -91,7 +91,7 @@ nav .fa{
     font-size:40px;
 }
     li{
-        display: block;
+        display: none;
     }
     .nav-links{
         position:absolute;
