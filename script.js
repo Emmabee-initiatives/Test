@@ -3,7 +3,7 @@ let  Navlinks = document.getElementById("NavLinks");
         
         
         function showmenu(){
-            Navlinks.learn.right = "-200px";
+            Navlinks.learn.right = "200px";
             }
         
         function hidemenu(){
