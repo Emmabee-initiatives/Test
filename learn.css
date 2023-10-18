@@ -34,7 +34,7 @@ nav{
     list-style:none;
     display:inline-block;
     padding:8px 12px;
-    position :relative;
+    position:relative;
 }
 a{
     color:gold;
@@ -59,7 +59,7 @@ a{
     position:absolute;
     top: 60%;
     left:50%;
-    transform: translate(-50%,-50%);
+    transform:translate(-50%,-50%);
     text-align:center;
 }
 p{
