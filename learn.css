@@ -91,7 +91,7 @@ nav .fa{
     font-size:40px;
 }
     li{
-        display: none;
+        display:none;
     }
     .nav-links{
         position:absolute;
@@ -112,6 +112,7 @@ nav .fa{
         cussor:pointer;
     }
     ul{
+        display:none;
         padding:30px;
     }
     .text-box{
